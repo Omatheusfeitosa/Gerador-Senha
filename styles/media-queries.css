@@ -1,0 +1,26 @@
+@media only screen and (max-width: 768px) {
+    .container {
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .campo-senha {
+        width: 20rem;
+    }
+
+    .container-child {
+        width: 20rem;
+        font-size: 1rem;
+    }
+
+    button {
+        width: 20rem;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px){
+    .container {
+        width: 70vw;
+        height: 70vh;
+    }
+}
